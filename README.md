@@ -48,21 +48,21 @@ Open index.html in your browser to view the website locally.
 
 ## Screenshots
 
-# Home page:
+                                                          ## Home page:
 <img width="946" height="410" alt="image" src="https://github.com/user-attachments/assets/5530699b-6a54-4014-b90e-ee30ed6eafa3" /> 
 
 <img width="941" height="400" alt="image" src="https://github.com/user-attachments/assets/ed7e8885-ee43-48c8-af38-96268707322c" />
 
-# Governor Section:
+                                                          ## Governor Section:
 <img width="859" height="397" alt="image" src="https://github.com/user-attachments/assets/f5c3642c-630a-406f-aefa-1492a3079354" />
 
-# Map Section:
+                                                          ## Map Section:
 <img width="928" height="396" alt="image" src="https://github.com/user-attachments/assets/7e8afc46-ce4b-486c-97bf-70b9e56df726" />
 
 
 <img width="950" height="389" alt="image" src="https://github.com/user-attachments/assets/a8b5aa30-acdb-4604-9b2e-2c784ede627e" />
 
-# Customer  Section:
+                                                        # Customer  Section:
 
 <img width="938" height="401" alt="image" src="https://github.com/user-attachments/assets/94a19e3e-3dc3-4290-88fe-34edd5b24775" />
 
